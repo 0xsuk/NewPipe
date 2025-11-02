@@ -42,6 +42,7 @@
         <item>30 seconds</item>
     </string-array>
     <string-array name="seek_duration_value">
+        <item>2000</item>
         <item>5000</item>
         <item>10000</item>
         <item>15000</item>
